@@ -1,2 +1,2 @@
 print("deneme")
-print("ikinci deneme")
+print("2")
